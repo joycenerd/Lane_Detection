@@ -36,10 +36,10 @@ matplotlib
 
 ## Results
 
-We train for 500 epochs the best evaluation result we can get right now is in the 100th epoch
-| Loss | Accuracy | FP   | FN  |
-| ---- | -------- | ---- | --- |
-| 1.3  | 0.96     | 0.03 | 0.3 |
+We train for 200 epochs the best evaluation result we can get right now is in the 122th epoch
+| Loss | Accuracy | FP   | FN   |
+| ---- | -------- | ---- | ---  |
+| 1.11 | 0.97     | 0.02 | 0.28 |
 
 <img src='./image/lane.png'>
 
